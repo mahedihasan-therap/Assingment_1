@@ -1,0 +1,3 @@
+samanthaparks@LOI-OR user get method time: 29781ms
+samanthaparks@LOI-OR user post method time:4856ms
+total time: 34637ms

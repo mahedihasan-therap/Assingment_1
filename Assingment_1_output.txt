@@ -1,0 +1,27 @@
+/ma/logbook/view URI summary 
+
+
+1th hour total user7825---get reqs 4111---post reqs3714---get reqs time109167---post reqs time93041---total time 202208
+2th hour total user14626---get reqs 3541---post reqs3260---get reqs time92947---post reqs time81057---total time 376212
+3th hour total user17956---get reqs 1723---post reqs1607---get reqs time43973---post reqs time36417---total time 456602
+4th hour total user19820---get reqs 973---post reqs891---get reqs time25226---post reqs time39351---total time 521179
+5th hour total user22649---get reqs 1462---post reqs1367---get reqs time40813---post reqs time64156---total time 626148
+6th hour total user25396---get reqs 1418---post reqs1329---get reqs time37964---post reqs time58957---total time 723069
+7th hour total user32286---get reqs 3565---post reqs3325---get reqs time91712---post reqs time84977---total time 899758
+8th hour total user43298---get reqs 5824---post reqs5188---get reqs time153750---post reqs time124735---total time 1178243
+9th hour total user67531---get reqs 12555---post reqs11678---get reqs time366749---post reqs time592782---total time 2137774
+10th hour total user101872---get reqs 17727---post reqs16614---get reqs time543761---post reqs time443774---total time 3125309
+11th hour total user131668---get reqs 15386---post reqs14410---get reqs time504243---post reqs time427393---total time 4056945
+12th hour total user156316---get reqs 12939---post reqs11709---get reqs time415134---post reqs time326485---total time 4798564
+13th hour total user182737---get reqs 13749---post reqs12672---get reqs time468352---post reqs time372126---total time 5639042
+14th hour total user206278---get reqs 12239---post reqs11302---get reqs time429932---post reqs time583791---total time 6652765
+15th hour total user227365---get reqs 11156---post reqs9931---get reqs time396228---post reqs time686246---total time 7735239
+16th hour total user249183---get reqs 11298---post reqs10520---get reqs time397521---post reqs time585537---total time 8718297
+17th hour total user270819---get reqs 11253---post reqs10383---get reqs time376012---post reqs time712775---total time 9807084
+18th hour total user290414---get reqs 10197---post reqs9398---get reqs time326476---post reqs time492207---total time 10625767
+19th hour total user301867---get reqs 6024---post reqs5429---get reqs time192722---post reqs time179453---total time 10997942
+20th hour total user312383---get reqs 5585---post reqs4931---get reqs time173884---post reqs time346054---total time 11517880
+21th hour total user322307---get reqs 5205---post reqs4719---get reqs time162055---post reqs time129211---total time 11809146
+22th hour total user334244---get reqs 6184---post reqs5753---get reqs time191031---post reqs time148380---total time 12148557
+23th hour total user346642---get reqs 6558---post reqs5840---get reqs time204802---post reqs time157353---total time 12510712
+24th hour total user360864---get reqs 7350---post reqs6872---get reqs time231616---post reqs time179761---total time 12922089
